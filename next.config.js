@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: '/',
+  basePath: '/eunnho98.github.io',
 };
 
 module.exports = nextConfig;
