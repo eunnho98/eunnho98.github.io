@@ -10,25 +10,34 @@ import ARRoute from '@/components/ProjectCard/ARRoute';
 
 function project() {
   const hells_imgList = [
-    'hellsmate/1.png',
-    'hellsmate/2.png',
-    'hellsmate/3.png',
-    'hellsmate/4.png',
-    'hellsmate/5.png',
+    'https://github.com/eunnho98/eunnho/blob/main/public/hellsmate/1.PNG',
+    'https://github.com/eunnho98/eunnho/blob/main/public/hellsmate/2.PNG',
+    'https://github.com/eunnho98/eunnho/blob/main/public/hellsmate/3.PNG',
+    'https://github.com/eunnho98/eunnho/blob/main/public/hellsmate/4.PNG',
+    'https://github.com/eunnho98/eunnho/blob/main/public/hellsmate/5.PNG',
   ];
 
   const booking_imgList = [
-    'booking/1.png',
-    'booking/2.png',
-    'booking/3.png',
-    'booking/4.png',
+    'https://github.com/eunnho98/eunnho/blob/main/public/booking/1.PNG',
+    'https://github.com/eunnho98/eunnho/blob/main/public/booking/2.PNG',
+    'https://github.com/eunnho98/eunnho/blob/main/public/booking/3.PNG',
+    'https://github.com/eunnho98/eunnho/blob/main/public/booking/4.PNG',
   ];
 
-  const AR_imgList = ['AR/1.png', 'AR/2.png', 'AR/3.png'];
+  const AR_imgList = [
+    'https://github.com/eunnho98/eunnho/blob/main/public/AR/1.PNG',
+    'https://github.com/eunnho98/eunnho/blob/main/public/AR/2.PNG',
+    'https://github.com/eunnho98/eunnho/blob/main/public/AR/3.PNG',
+  ];
 
-  const bed_imgList = ['KHULazy/1.png', 'KHULazy/2.png', 'KHULazy/3.png'];
+  const bed_imgList = [
+    'https://github.com/eunnho98/eunnho/blob/main/public/KHULazy/1.PNG',
+    'https://github.com/eunnho98/eunnho/blob/main/public/KHULazy/2.PNG',
+    'https://github.com/eunnho98/eunnho/blob/main/public/KHULazy/3.PNG',
+  ];
 
-  const myTone_imgList = 'myTone/1.png';
+  const myTone_imgList =
+    'https://github.com/eunnho98/eunnho/blob/main/public/myTone/1.PNG';
   return (
     <Box mx="24px">
       <Title
